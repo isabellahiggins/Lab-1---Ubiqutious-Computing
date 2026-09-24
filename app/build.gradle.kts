@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab1"
+    namespace = "com.example.lab1_ubiqutiouscomputing"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.lab1"
+        applicationId = "com.example.lab1_ubiqutiouscomputing"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
